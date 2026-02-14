@@ -4,6 +4,7 @@ I’m a **Software Engineer** passionate about building scalable cloud applicati
 My top skills include **.NET**, **Azure**, **Angular**, and **Astro**.
 
 - 🚀 Creator of [BlazorSignalStore](https://github.com/TempooDev/BlazorSignalStore)
+- Building an cookieless alternative to Google Analytics [TempooAnalytics](https://tempooanalytics.eu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/antoniobermudezr/)
 
 Always open to collaborate on exciting projects!
